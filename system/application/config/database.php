@@ -39,7 +39,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = "localhost";
 $db['default']['username'] = "root";
-$db['default']['password'] = "fs0123456";
+$db['default']['password'] = "tooch12345";
 $db['default']['database'] = "mmipdf";
 $db['default']['dbdriver'] = "mysql";
 $db['default']['dbprefix'] = "";
